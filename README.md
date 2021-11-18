@@ -12,6 +12,7 @@
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namantejaswi&theme=algolia)]
 
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=namantejaswi)]
 
 <!---
 namantejaswi/namantejaswi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
