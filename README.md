@@ -5,7 +5,6 @@
 - 📫 You can reach me at tejaswinaman1@gmail.com 
 
 
-
 [![Naman Tejaswi Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=NamanTejaswi_13843)](https://medium.com/@NamanTejaswi_13843)
 
 
