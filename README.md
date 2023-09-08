@@ -7,7 +7,7 @@
 
 [![Naman Tejaswi Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=NamanTejaswi_13843)](https://medium.com/@NamanTejaswi_13843)
 
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=namantejaswi)](https://github.com/namantejaswi/leetcode-stats)
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namantejaswi&theme=algolia)]
 
