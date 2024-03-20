@@ -9,7 +9,7 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=namantejaswi)](https://github.com/namantejaswi/leetcode-stats)
 
-[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namantejaswi&theme=algolia)]
+<!--[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namantejaswi&theme=algolia)]
 
 <!--[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=namantejaswi)]-->
 
